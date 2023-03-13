@@ -10,6 +10,6 @@ print("\033[0;30;41mPROCESSANDO...\033[m")
 sleep(2)
 nSecreto = randint(0, 5) # faz o computador pensar
 if n != nSecreto:
-	print("\033[1;31mERROU!!!\033[m \033[32mpensei no numero {}\033[m".format(nSecreto))
+	print("\033[1;31mERROU!!!\033[m \033[32mpensei no número {}\033[m".format(nSecreto))
 else:
 	print("\033[1;34mACERTOU\033[m, \033[32mParabéns você conseguiu me vencer!!!\033[m")
