@@ -1,4 +1,4 @@
 # Jogo_de_adivinhar
  Primeiro repositório 
 
- Repositório criado durante uma aula ao vivo
+Um jogo simples, mas divertido para mostrar meus primeiros códigos!
